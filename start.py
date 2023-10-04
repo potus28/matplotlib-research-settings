@@ -67,51 +67,6 @@ mpl.rcParams["hatch.color"] =  'k'
 mpl.rcParams["hatch.linewidth"] = 1.0
 
 
-### Boxplot
-#boxplot.notch       : False
-#boxplot.vertical    : True
-#boxplot.whiskers    : 1.5
-#boxplot.bootstrap   : None
-#boxplot.patchartist : False
-#boxplot.showmeans   : False
-#boxplot.showcaps    : True
-#boxplot.showbox     : True
-#boxplot.showfliers  : True
-#boxplot.meanline    : False
-
-#boxplot.flierprops.color           : 'k'
-#boxplot.flierprops.marker          : 'o'
-#boxplot.flierprops.markerfacecolor : 'none'
-#boxplot.flierprops.markeredgecolor : 'k'
-#boxplot.flierprops.markersize      : 6
-#boxplot.flierprops.linestyle       : 'none'
-#boxplot.flierprops.linewidth       : 1.0
-
-#boxplot.boxprops.color     : 'k'
-#boxplot.boxprops.linewidth : 1.0
-#boxplot.boxprops.linestyle : '-'
-
-#boxplot.whiskerprops.color     : 'k'
-#boxplot.whiskerprops.linewidth : 1.0
-#boxplot.whiskerprops.linestyle : '-'
-
-#boxplot.capprops.color     : 'k'
-#boxplot.capprops.linewidth : 1.0
-#boxplot.capprops.linestyle : '-'
-
-#boxplot.medianprops.color     : 'C1'
-#boxplot.medianprops.linewidth : 1.0
-#boxplot.medianprops.linestyle : '-'
-
-#boxplot.meanprops.color           : 'C2'
-#boxplot.meanprops.marker          : '^'
-#boxplot.meanprops.markerfacecolor : 'C2'
-#boxplot.meanprops.markeredgecolor : 'C2'
-#boxplot.meanprops.markersize      :  6
-#boxplot.meanprops.linestyle       : 'none'
-#boxplot.meanprops.linewidth       : 1.0
-
-
 mpl.rcParams["font.family"] =  "DejaVu Sans" 
 mpl.rcParams["font.serif"] =  "cm10"
 mpl.rcParams["font.size"] = 24.0
